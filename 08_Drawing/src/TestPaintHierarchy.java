@@ -25,11 +25,6 @@ import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 import javafx.geometry.Point2D;
 
-import hierarchy.PaintObject;
-import hierarchy.Line;
-import hierarchy.Rectangle;
-import hierarchy.Oval;
-import hierarchy.Picture;
 
 public class TestPaintHierarchy extends Application {
 
