@@ -1,5 +1,3 @@
-package hierarchy;
-
 /**
  * A Canvas that has all four types of PaintObjects drawn on it.
  * Currently, a list of paint objects is hardcoded. A Canvas exists
